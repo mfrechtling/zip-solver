@@ -1,0 +1,13 @@
+{
+    "name": "zip-solver-extension",
+    "version": "0.1.0",
+    "type": "module",
+    "scripts": {
+        "build": "node scripts/build.js",
+        "zip": "node scripts/zip-extension.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^30.2.0"
+    }
+}

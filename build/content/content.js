@@ -1,0 +1,1 @@
+console.log("Hello World Extension: content script loaded.");
